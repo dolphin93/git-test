@@ -1,3 +1,4 @@
-this is our class room
-这是我们的教室。
+this's our class room
+这是我们的教室!
 that is a big room
+这是个大教室！
